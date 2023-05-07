@@ -1,5 +1,4 @@
 FROM almalinux
 RUN yum install nginx -y
-RUN rm -rf /usr/share/nginx/html/index.html
-COPY 2_files /usr/share/nginx/html/
+RUN echo "Hai Medha"
 CMD ["nginx","-g","daemon off;"]
