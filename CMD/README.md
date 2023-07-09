@@ -1,0 +1,1 @@
+CMD command we use runs the containers

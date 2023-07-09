@@ -1,0 +1,1 @@
+RUN instruction we use to install software,packages and other tasks.It run at the time of image building
